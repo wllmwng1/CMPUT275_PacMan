@@ -1,0 +1,67 @@
+Project Title: Pac-man
+
+Team members: William Wong
+							Shan Lu
+
+Section: A2
+
+Description: Our project is based on pac-man game. We will generate a single map for the pac-man
+					to eating dots and four ghosts to chase the pac-man. The user can use the keyboad to move
+					the pac-man around the map to eat dots to gain scores. The ghost will chase the pac-man, if
+					the ghost touches the pac-man, pac-man will lose a life, the game will be over when the pac-man
+					loses all lifes. When the pac-man eats all dots on the map, it will go to the next level (same
+					map, but the ghosts will be faster). Also, there are 4 energizer (big dots) on the map, when the
+					pac-man eat the energizer, the ghost will change its color and the pac-man can eat the ghost in this
+					mode, the ghost will go back to it's home when it's eaten by the pac-man.
+
+Milestones:
+				(March 10th to March 17th)
+				Milestone 1: Creating the map and allowing the pac-man to move around the map by the keyboards.
+									Also, the pac-man can gain the score by eating dots on the map.
+
+				(March 18th to 29th)
+				Milestone 2: Creating 4 ghosts with different ways of chasing the pac-man. The ghosts have 3 modes: 1. Chase
+									2. Scatter 3. Frightened. Add four energizers on the map. The pac-man can eat the energizer, and in
+									the next few seconds it can eat the ghost to get points and make the ghost return to the ghost home.
+									Also, the pac-man will have three lifes.
+
+				(March 30th to April 7th)
+				Milestone 3: Add the high score table, more levels.Add some fruits randomly on the map, the pac-man will gain
+									high scores by eating the fruits.
+
+Description: 		Our project is based on the classic arcade game Pac-Man. Pac-Man
+							is a player that eats various items to clear the level while
+							ghosts try to catch him before he reaches his goal. We will
+							generate a single map for Pac-Man and the ghosts to move in. The
+							user can control Pac-Man using the keyboard, eating dots in order
+							to clear the level and get a score. The ghosts will chase Pac-Man,
+							and if the ghosts successfully reach Pac-Man, Pac-Man will lose
+							one of his lives. The game is over when Pac-Man loses all his
+							lives. In order to clear the level, Pac-Man must eat all the dots
+							in the map. The next levels will have the same map, but the ghosts
+							will get faster up until a cap. In order to fight the ghosts,
+							there are bigger dots on the map called energizer dots that when
+							Pac-Man eats them, the ghosts will turn blue and Pac-Man can eat
+							them once. Eating them will bring them back to their spawnpoint,
+							ready to chase Pac-Man again.
+
+Milestones:
+				Milestone 1(March 10 - March 17): 	Create the map that Pac-Man and the
+											ghosts will move around in. Create Pac-Man and allow him
+											to move around using the keyboard. Create the dots that
+											Pac-Man can eat and get points.
+				Milestone 2(March 18 - March 29):		Create four ghosts to chase Pac-Man.
+											Ghosts will have different ways of catching Pac-Man. Give
+											the ghosts three modes:
+												1. Chase: In this mode, the ghosts will chase Pac-Man.
+												2. Scatter: In this mode, the ghosts will run in circles.
+												3. Frightened: In this mode, the ghosts will run away
+														from Pac-Man.
+											Add energizer dots onto the map. Eating the energizer dots
+											will grant Pac-Man a buff for a couple of seconds. Ghosts
+											will go into Frightened mode, and Pac-Man can eat the
+											ghosts for more points. Eating them will bring them back
+											to their spawn. Give Pac-Man three lives.
+				Milestone 3(March 30 - April 7): Add the high score table and the levels.
+											Add some extra fruits to the map that spawn randomly,
+											in which when Pac-Man eats it, gives him extra points.
